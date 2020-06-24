@@ -1,0 +1,109 @@
+body{
+  margin: auto;
+  text-align: center;
+  font-family: 'Merienda', cursive;
+}
+hr{
+  border: dotted grey 5px;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  width: 5%;
+  margin: 100px auto;
+}
+p{
+  line-height: 2;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+.top-container{
+  background-color:  #E4F9F5;
+
+  padding: 50px;
+  
+}
+.middle-container{
+  padding-top: 80px;
+  background-color: #E4F9F5;
+}
+
+.bottom-container{
+  background-color: #11999E;
+  margin: auto;
+  padding:20px;
+}
+
+.main-heading{
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive; color: #00005c;
+  margin: 50px auto 0 auto;
+}
+.dp{
+  height: 16%;
+  width: 16%;
+}
+.sub-heading{
+  font-size: 1.5rem;
+  color: #00005c;
+}
+h2{
+  color: #11999E;
+}
+h3{
+  color: #11999E;
+
+}
+p{
+  font-size: 25px;
+}
+.programming-img {
+  height: 30%;
+  width: 30%;
+  float: left;
+  margin-right: 20px;
+}
+.webdev-img{
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+.footer-link{
+  color: #00005c;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.contact-me{
+  width: 40%;
+  margin: auto;
+  padding: 100px;
+
+}
+
+.contact_btn{
+  font-size: 25px;
+  text-decoration: none;
+  background-color: #11CBD4;
+  padding: 8px 20px 8px;
+  border-radius: 20px;
+}
+.contact_btn:hover{
+  background-color: #00005c;
+  color: #bfff00;
+}
+
+.copyright{
+  color: #eaf6f6;
+}
